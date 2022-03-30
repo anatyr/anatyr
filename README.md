@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anatyr
-- 👀 I’m interested in process automation 
-- 🌱 I’m currently learning python
+- 👀 I’m a global systems super user
+- 🌱 I’m currently learning python and js
 
 <!---
 anatyr/anatyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
