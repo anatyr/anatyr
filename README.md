@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anatyr
-- 👀 I’m a global systems super user
+- 👀 I’m a product owner and a systems super user
 - 🌱 I’m currently learning python and js
 
 <!---
